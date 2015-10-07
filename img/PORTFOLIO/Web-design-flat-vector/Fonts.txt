@@ -1,0 +1,3 @@
+Fonts used:
+- Alegreya Sans, by Juan Pablo del Peral (http://www.fontsquirrel.com/fonts/Alegreya-Sans)
+- Dosis, By Impallari Type (http://www.fontsquirrel.com/fonts/dosis)
